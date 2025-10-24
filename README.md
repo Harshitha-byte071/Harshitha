@@ -10,10 +10,12 @@ About Me
 Insane Coder
 
 🛠  Tech Stack
+
 Java Spring Boot
 React Angular
 AWS
 
 🤝🏻  Connect with Me
-   
+  <img width="43" height="38" alt="image" src="https://github.com/user-attachments/assets/a223b4c5-9732-46e4-a634-101f460fe06b" />
+ linkedin.com/in/harshitha-pentapati-875174390
      
