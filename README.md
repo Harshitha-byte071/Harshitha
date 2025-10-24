@@ -28,11 +28,17 @@ technologies.
 
 🛠  Tech Stack
 
-Java
-Spring Boot
-React
-Angular
-AWS
+•	Programming: Core Java
+
+•	Databases: MySQL
+
+•	Framework: Spring Boot
+
+•	Web: HTML, CSS
+
+•	Concepts: Computer Networks, DBMS, OOPs
+
+
 
 🤝🏻  Connect with Me
 
