@@ -1,4 +1,4 @@
-# Hi, I'm [Harshitha] 👋
+# Hey there! I'm [Harshitha] 👋
 
 I'm a passionate Software Developer with expertise in Java, Python, C++, and AWS Cloud.
 B.Tech project:
